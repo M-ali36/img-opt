@@ -1,5 +1,5 @@
 import UserSettings from "@/components/_User/SettingsPage";
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const page = props => {
     return (
         <>

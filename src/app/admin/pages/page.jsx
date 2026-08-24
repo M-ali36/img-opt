@@ -1,6 +1,6 @@
 import PagesPage from "@/components/_Admin/PagesList";
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const Pages = props => {
     return (
         <>

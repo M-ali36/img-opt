@@ -1,5 +1,5 @@
 import SectionsPage from "@/components/_Admin/SectionsList";
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const Sections = props => {
     return (
         <>

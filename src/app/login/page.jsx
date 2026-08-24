@@ -1,5 +1,5 @@
 import LoginPage from "@/components/_Login";
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const Login = props => {
     return (
         <LoginPage />

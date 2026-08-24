@@ -1,6 +1,6 @@
 import UserDashboard from "@/components/_User/Dashboard";
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const User = props => {
     return (
         <>

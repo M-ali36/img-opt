@@ -1,5 +1,5 @@
 import ProjectsPage from "@/components/_Admin/ProjectsList";
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const Projects = props => {
     return (
         <>

@@ -1,6 +1,6 @@
 import UsersPage from "@/components/_Admin/UserList";
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 const Users = props => {
     return (
         <>
